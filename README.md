@@ -33,5 +33,9 @@ Atividades desenvolvidas durante o 1º Semestre da faculdade de GPI FATEC-SJC
 
 Foram coletados dados do arquivo: Empresas com habilitação multimodal, da ANTT presentes no site: 
 
-https://dados.antt.gov.br/dataset/operador-transporte-multimodal/resource/9f76aca6-0e8d-4c13-8851-0ad8ced5c5b7
 
+
+https://dados.antt.gov.br/dataset/operador-transporte-multimodal/resource/9f76aca6-0e8d-4c13-8851-0ad8ced5c5b7
+#Link da Planilha
+
+operador_transporte_multimodal (1).xlsx 1.xlsx
