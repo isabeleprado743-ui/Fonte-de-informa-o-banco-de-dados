@@ -6,9 +6,13 @@ Iniciamos nossa trajétoria na #Fatec no curso de Gestão da Produção Industri
 
 <img width="1328" height="741" alt="Captura de tela 2026-10-01 204422" src="https://github.com/user-attachments/assets/4666506a-803c-4db2-8391-d92c3156e6d2" />
 
+
+
+
 #Planilha Eletrônicas e dados abertos.
 
-Trabalho de construção de Gráficos, conforme os resultados da Planilha de dados abertos governamentais
+Trabalho de construção de Gráficos, conforme os resultados da Planilha de dados abertos governamentais 
+https://github.com/isabeleprado743-ui/Fonte-de-informa-o-banco-de-dados/raw/refs/heads/main/dic_censo2022_favelas.xlsx 
 
 
 <img width="693" height="432" alt="Captura de tela 2026-10-01 205336" src="https://github.com/user-attachments/assets/b0b6e153-951a-407b-8bef-a712e6c300b3" />
