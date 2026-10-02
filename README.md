@@ -7,11 +7,7 @@ Iniciamos nossa trajétoria na #Fatec no curso de Gestão da Produção Industri
 
 <img width="1328" height="741" alt="Captura de tela 2026-10-01 204422" src="https://github.com/user-attachments/assets/4666506a-803c-4db2-8391-d92c3156e6d2" />
 
-
-
-
-
-#Planilha Eletrônicas e dados abertos.
+# Planilha Eletrônicas e dados abertos.
 
 Trabalho de construção de Gráficos, conforme os resultados da Planilha de dados abertos governamentais 
 
