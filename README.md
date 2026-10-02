@@ -19,4 +19,8 @@ Iniciamos nossa trajétoria na #Fatec no curso de Gestão da Produção Industri
 
 <img width="586" height="413" alt="Captura de tela 2026-10-01 205449" src="https://github.com/user-attachments/assets/a0e75a44-cbc7-4b18-9831-d07100258a5b" />
 
+[dic_censo2022_favelas.xlsx](https://github.com/user-attachments/files/32938193/dic_censo2022_favelas.xlsx)
+
+[censo2022_favelas (2).xlsx](https://github.com/user-attachments/files/32938207/censo2022_favelas.2.xlsx)
+
 
