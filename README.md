@@ -27,6 +27,11 @@ https://github.com/isabeleprado743-ui/Fonte-de-informa-o-banco-de-dados/raw/refs
 
 <img width="586" height="413" alt="Captura de tela 2026-10-01 205449" src="https://github.com/user-attachments/assets/a0e75a44-cbc7-4b18-9831-d07100258a5b" />
 
+#Fonte de Informação e Banco de Dados
 
+Atividades desenvolvidas durante o 1º Semestre da faculdade de GPI FATEC-SJC
 
+Foram coletados dados do arquivo: Empresas com habilitação multimodal, da ANTT presentes no site: 
+
+https://dados.antt.gov.br/dataset/operador-transporte-multimodal/resource/9f76aca6-0e8d-4c13-8851-0ad8ced5c5b7
 
