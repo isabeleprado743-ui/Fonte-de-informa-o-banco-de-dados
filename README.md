@@ -44,7 +44,7 @@ operador_transporte_multimodal (1).xlsx 1.xlsx
 
 # Trabalho ANTT - Empresas Multimodais 
  
-<img width="1179" height="636" alt="image" src="https://github.com/user-attachments/assets/b1bf177d-79a3-4583-b0b3-0fff1f61b4fb" />i
+<img width="1179" height="636" alt="image" src="https://github.com/user-attachments/assets/b1bf177d-79a3-4583-b0b3-0fff1f61b4fb" />
 
 
 # Link
