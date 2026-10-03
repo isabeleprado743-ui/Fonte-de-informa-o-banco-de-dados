@@ -14,8 +14,6 @@ Trabalho de construção de Gráficos, conforme os resultados da Planilha de dad
 
 https://github.com/isabeleprado743-ui/Fonte-de-informa-o-banco-de-dados/raw/refs/heads/main/dic_censo2022_favelas.xlsx 
 
-https://github.com/isabeleprado743-ui/Fonte-de-informa-o-banco-de-dados/raw/refs/heads/main/censo2022_favelas%20(2).xlsx
-
 
 <img width="693" height="432" alt="Captura de tela 2026-10-01 205336" src="https://github.com/user-attachments/assets/b0b6e153-951a-407b-8bef-a712e6c300b3" />
 
