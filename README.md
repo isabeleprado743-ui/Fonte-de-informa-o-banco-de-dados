@@ -31,9 +31,9 @@ https://github.com/isabeleprado743-ui/Fonte-de-informa-o-banco-de-dados/raw/refs
 
 Atividades desenvolvidas durante o 1º Semestre da faculdade de GPI FATEC-SJC
 
-Foram coletados dados do arquivo: Empresas com habilitação multimodal, da ANTT presentes no site: 
+Foram coletados dados do arquivo: Empresas com habilitação multimodal, da ANTT presentes no site: <img width="966" height="1100" alt="image" src="https://github.com/user-attachments/assets/6a86fb01-643e-4628-af8f-5a2f4502731f" />
 
-<img width="966" height="1100" alt="image" src="https://github.com/user-attachments/assets/6a86fb01-643e-4628-af8f-5a2f4502731f" />
+https://github.com/isabeleprado743-ui/Fonte-de-informa-o-banco-de-dados/blob/main/planilha%20Isa.zip
 
 
 https://dados.antt.gov.br/dataset/operador-transporte-multimodal/resource/9f76aca6-0e8d-4c13-8851-0ad8ced5c5b7
