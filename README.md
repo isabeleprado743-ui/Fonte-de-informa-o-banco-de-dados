@@ -68,3 +68,10 @@ Foram coletados dados relativos a Favelas e Comunidades Urbanas presentes no sit
 
 <img width="1300" height="675" alt="Captura de tela 2026-10-02 211956" src="https://github.com/user-attachments/assets/6ea2db4d-fcfe-4370-b264-40dd9830276d" />
 
+Aula do dia 30 de Outubro
+Aprendendo sobre Regressão l
+inear
+
+<img width="1283" height="829" alt="image" src="https://github.com/user-attachments/assets/64e0ad8a-e597-4316-bd15-f4167a26db98" />
+
+
