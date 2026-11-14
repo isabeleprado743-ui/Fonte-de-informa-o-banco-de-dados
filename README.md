@@ -76,6 +76,7 @@ https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 
 
 
+#  Dashboard
 
 <img width="1687" height="887" alt="image" src="https://github.com/user-attachments/assets/7c52552c-1748-419c-bc35-19238cb0e372" />
 
@@ -84,25 +85,25 @@ https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 
 
 
- Investimentos captados power bi 
+ # Investimentos captados Power bi 
 
  <img width="1549" height="876" alt="image" src="https://github.com/user-attachments/assets/05a38b87-3c64-4e8e-a978-d45e19f6bfe2" />
 
 
 
- Regressão linear simples: idade média das mulheres (y) × idade média dos homens (x) ao casar	
+ # Regressão linear simples: idade média das mulheres (y) × idade média dos homens (x) ao casar	
 
  <img width="1626" height="407" alt="image" src="https://github.com/user-attachments/assets/0094e810-5e69-4b22-ad53-8526b74b11bb" />
 
 
-Setores econômicos – Investimentos captados (2012 a set/2026)	
+# Setores econômicos – Investimentos captados (2012 a set/2026)	
 
 
 <img width="560" height="305" alt="image" src="https://github.com/user-attachments/assets/4212ab4f-e07e-4669-864d-b8df77ec6b0d" 
 
 
 
- Investimentos captados –  (2012 a set/2026)	
+# Investimentos captados –  (2012 a set/2026)	
 
 <img width="529" height="519" alt="image" src="https://github.com/user-attachments/assets/fa380d5d-e3ce-4a71-9054-02c4ff836274" />
 
