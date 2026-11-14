@@ -98,7 +98,13 @@ https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 Setores econômicos – Investimentos captados (2012 a set/2026)	
 
 
-<img width="560" height="305" alt="image" src="https://github.com/user-attachments/assets/4212ab4f-e07e-4669-864d-b8df77ec6b0d" />
+<img width="560" height="305" alt="image" src="https://github.com/user-attachments/assets/4212ab4f-e07e-4669-864d-b8df77ec6b0d" 
+
+
+
+ Investimentos captados –  (2012 a set/2026)	
+
+<img width="529" height="519" alt="image" src="https://github.com/user-attachments/assets/fa380d5d-e3ce-4a71-9054-02c4ff836274" />
 
 
 
