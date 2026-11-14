@@ -83,6 +83,19 @@ https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 <img width="1283" height="829" alt="image" src="https://github.com/user-attachments/assets/64e0ad8a-e597-4316-bd15-f4167a26db98" />
 
 
+
  Investimentos captados power bi 
 
  <img width="1549" height="876" alt="image" src="https://github.com/user-attachments/assets/05a38b87-3c64-4e8e-a978-d45e19f6bfe2" />
+
+
+
+ Regressão linear simples: idade média das mulheres (y) × idade média dos homens (x) ao casar	
+
+ <img width="1626" height="407" alt="image" src="https://github.com/user-attachments/assets/0094e810-5e69-4b22-ad53-8526b74b11bb" />
+
+
+ 
+
+
+
