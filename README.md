@@ -74,6 +74,15 @@ Foram coletados dados relativos a Favelas e Comunidades Urbanas presentes no sit
 
 https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 
+
+
+
+<img width="1687" height="887" alt="image" src="https://github.com/user-attachments/assets/7c52552c-1748-419c-bc35-19238cb0e372" />
+
+
 <img width="1283" height="829" alt="image" src="https://github.com/user-attachments/assets/64e0ad8a-e597-4316-bd15-f4167a26db98" />
 
 
+ Investimentos captados power bi 
+
+ <img width="1549" height="876" alt="image" src="https://github.com/user-attachments/assets/05a38b87-3c64-4e8e-a978-d45e19f6bfe2" />
