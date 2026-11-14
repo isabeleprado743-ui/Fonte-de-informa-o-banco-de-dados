@@ -74,6 +74,10 @@ Foram coletados dados relativos a Favelas e Comunidades Urbanas presentes no sit
 
 https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 
+<img width="907" height="639" alt="image" src="https://github.com/user-attachments/assets/dd4cd469-7f78-4fde-b378-7bd0b01488fd" />
+
+<img width="918" height="596" alt="Captura de tela 2026-11-13 225059" src="https://github.com/user-attachments/assets/30d08a8c-7a46-4215-b78b-46563666b518" />
+
 
 
 
