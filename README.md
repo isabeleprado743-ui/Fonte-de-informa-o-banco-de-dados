@@ -111,7 +111,7 @@ https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 
 
 
-# oram unidas uma tabela de dados com uma tabela de imagens por um relacionamento 1:N, e criado um relatório no Power BI em que as figuras funcionam como filtros dos gráficos.
+# Foram unidas uma tabela de dados com uma tabela de imagens por um relacionamento 1:N, e criado um relatório no Power BI em que as figuras funcionam como filtros dos gráficos.
 
 # SOMA DE MATRÍCULA POR GRAU
 
