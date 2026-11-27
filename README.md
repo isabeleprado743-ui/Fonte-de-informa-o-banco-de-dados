@@ -111,3 +111,49 @@ https://github.com/isabeleprado743-ui/Banco-De-Dados/blob/main/Rlticole.ipynb
 
 
 
+# oram unidas uma tabela de dados com uma tabela de imagens por um relacionamento 1:N, e criado um relatório no Power BI em que as figuras funcionam como filtros dos gráficos.
+
+# SOMA DE MATRÍCULA POR GRAU
+
+
+<img width="814" height="303" alt="image" src="https://github.com/user-attachments/assets/895eaddf-ea21-48b7-8de1-6d30eae22642" />
+
+
+
+
+
+
+# foram analisados dois conjuntos de dados abertos, um com dashboard no Power BI e outro com regressão linear no Excel e no ColaB
+
+
+# Soma de liquidado por Secretaria e mês 
+
+<img width="842" height="276" alt="image" src="https://github.com/user-attachments/assets/4cf76980-af18-4638-933e-95ab44ed1be6" />
+
+
+# Soma de saldomovimentação por Mês
+
+
+<img width="817" height="269" alt="image" src="https://github.com/user-attachments/assets/a814f2a5-9ebe-453d-b399-ded8c010121c" />
+
+
+
+
+
+
+
+# Certificado de conclusão do curso de " Aplicação de Power Bi para Aprimoramneto" 
+
+
+
+<img width="551" height="767" alt="image" src="https://github.com/user-attachments/assets/b8171f92-4713-4131-b2b5-41555030218a" />
+
+
+
+
+
+
+
+
+
+
